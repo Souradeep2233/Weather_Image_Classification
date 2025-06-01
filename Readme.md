@@ -4,7 +4,8 @@
 
 Detected: Cloudy Sky
 
-This repository contains a PyTorch-based convolutional neural network (CNN) for classifying weather conditions from images. The model is trained to distinguish between "Cloudy", "Rain", "Shine", and "Sunrise" weather types, aiming for accurate and efficient weather prediction from visual data. Our approach acheived over 95.5% accuracy in real life complex testing scenarios.
+This repository contains a PyTorch-based convolutional neural network (CNN) for classifying weather conditions from images. The model is trained to distinguish between "Cloudy", "Rain", "Shine", and "Sunrise" weather types, aiming for accurate and efficient weather prediction from visual data. 
+Our approach acheived over 95.5% accuracy in real life complex testing scenarios.
 
 ## **📝 Table of Contents**
 
