@@ -1,4 +1,4 @@
-# **☁️ Weather Classification ☀️**
+# **☁️ Weather Images Classification ☀️**
 
 ![alt text](image-3.png)
 
